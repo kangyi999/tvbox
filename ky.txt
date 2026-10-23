@@ -8,7 +8,7 @@
 {"name":"推荐线路10","type":0,"url":"http://110.mypressonline.com/cn/st.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":1,"timeout":10}],
 
 "sites": [
-{"key":"drpy_js_金牌","name":"金牌┃本接口免费-🈲贩卖","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/金牌影视.js"},
+{"key":"drpy_js_金牌","name":"金牌┃本接口免费-🈲贩卖","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/kangyi999/tvbox/refs/heads/main/js/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/kangyi999/tvbox/refs/heads/main/js/金牌影视.js"},
 
 {"key": "量子资源","name": "量子","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/json/","searchable": 1, "changeable": 1,"playurl": "https://lziplayer.com/?url=","categories": ["动作片","国产剧","科幻片","恐怖片","短剧","喜剧片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","电影解说","国产动漫","日本动漫","欧美动漫","港台综艺","大陆综艺","港台综艺","韩国综艺","欧美综艺"]},
 
